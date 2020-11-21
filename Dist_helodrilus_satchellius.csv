@@ -1,0 +1,833 @@
+Specimen1,Specimen2,species,dist
+NOEAR067-18 CE15056 Satchellius mammalis COI,NOEAR066-18 CE15055 Satchellius mammalis COI,Satchellius mammalis,0.000
+NOEAR067-18 CE15056 Satchellius mammalis COI,NOREW065 11 CE12753 Satchellius mammalis COI,Satchellius mammalis,0.028
+NOEAR066-18 CE15055 Satchellius mammalis COI,NOREW065 11 CE12753 Satchellius mammalis COI,Satchellius mammalis,0.027
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE5391M Satchellius mammalis C,Satchellius mammalis,0.000
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE5391M Satchellius mammalis C,Satchellius mammalis,0.000
+NOREW065 11 CE12753 Satchellius mammalis COI,CE5391M Satchellius mammalis C,Satchellius mammalis,0.028
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE15060 Satchellius mammalis C,Satchellius mammalis,0.000
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE15060 Satchellius mammalis C,Satchellius mammalis,0.000
+NOREW065 11 CE12753 Satchellius mammalis COI,CE15060 Satchellius mammalis C,Satchellius mammalis,0.028
+CE5391M Satchellius mammalis C,CE15060 Satchellius mammalis C,Satchellius mammalis,0.000
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE15059 Satchellius mammalis C,Satchellius mammalis,0.000
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE15059 Satchellius mammalis C,Satchellius mammalis,0.000
+NOREW065 11 CE12753 Satchellius mammalis COI,CE15059 Satchellius mammalis C,Satchellius mammalis,0.028
+CE5391M Satchellius mammalis C,CE15059 Satchellius mammalis C,Satchellius mammalis,0.000
+CE15060 Satchellius mammalis C,CE15059 Satchellius mammalis C,Satchellius mammalis,0.000
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE15054 Satchellius mammalis C,Satchellius mammalis,0.000
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE15054 Satchellius mammalis C,Satchellius mammalis,0.000
+NOREW065 11 CE12753 Satchellius mammalis COI,CE15054 Satchellius mammalis C,Satchellius mammalis,0.028
+CE5391M Satchellius mammalis C,CE15054 Satchellius mammalis C,Satchellius mammalis,0.000
+CE15060 Satchellius mammalis C,CE15054 Satchellius mammalis C,Satchellius mammalis,0.000
+CE15059 Satchellius mammalis C,CE15054 Satchellius mammalis C,Satchellius mammalis,0.000
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE26115 Satchellius mammalis C,Satchellius mammalis,0.000
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE26115 Satchellius mammalis C,Satchellius mammalis,0.000
+NOREW065 11 CE12753 Satchellius mammalis COI,CE26115 Satchellius mammalis C,Satchellius mammalis,0.028
+CE5391M Satchellius mammalis C,CE26115 Satchellius mammalis C,Satchellius mammalis,0.000
+CE15060 Satchellius mammalis C,CE26115 Satchellius mammalis C,Satchellius mammalis,0.000
+CE15059 Satchellius mammalis C,CE26115 Satchellius mammalis C,Satchellius mammalis,0.000
+CE15054 Satchellius mammalis C,CE26115 Satchellius mammalis C,Satchellius mammalis,0.000
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE11843 Satchellius mammalis C,Satchellius mammalis,0.003
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE11843 Satchellius mammalis C,Satchellius mammalis,0.002
+NOREW065 11 CE12753 Satchellius mammalis COI,CE11843 Satchellius mammalis C,Satchellius mammalis,0.028
+CE5391M Satchellius mammalis C,CE11843 Satchellius mammalis C,Satchellius mammalis,0.003
+CE15060 Satchellius mammalis C,CE11843 Satchellius mammalis C,Satchellius mammalis,0.003
+CE15059 Satchellius mammalis C,CE11843 Satchellius mammalis C,Satchellius mammalis,0.003
+CE15054 Satchellius mammalis C,CE11843 Satchellius mammalis C,Satchellius mammalis,0.003
+CE26115 Satchellius mammalis C,CE11843 Satchellius mammalis C,Satchellius mammalis,0.003
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE4365M Satchellius mammalis C,Satchellius mammalis,0.006
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE4365M Satchellius mammalis C,Satchellius mammalis,0.006
+NOREW065 11 CE12753 Satchellius mammalis COI,CE4365M Satchellius mammalis C,Satchellius mammalis,0.031
+CE5391M Satchellius mammalis C,CE4365M Satchellius mammalis C,Satchellius mammalis,0.006
+CE15060 Satchellius mammalis C,CE4365M Satchellius mammalis C,Satchellius mammalis,0.006
+CE15059 Satchellius mammalis C,CE4365M Satchellius mammalis C,Satchellius mammalis,0.006
+CE15054 Satchellius mammalis C,CE4365M Satchellius mammalis C,Satchellius mammalis,0.006
+CE26115 Satchellius mammalis C,CE4365M Satchellius mammalis C,Satchellius mammalis,0.006
+CE11843 Satchellius mammalis C,CE4365M Satchellius mammalis C,Satchellius mammalis,0.006
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE18431 Satchellius mammalis C,Satchellius mammalis,0.032
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE18431 Satchellius mammalis C,Satchellius mammalis,0.031
+NOREW065 11 CE12753 Satchellius mammalis COI,CE18431 Satchellius mammalis C,Satchellius mammalis,0.005
+CE5391M Satchellius mammalis C,CE18431 Satchellius mammalis C,Satchellius mammalis,0.033
+CE15060 Satchellius mammalis C,CE18431 Satchellius mammalis C,Satchellius mammalis,0.032
+CE15059 Satchellius mammalis C,CE18431 Satchellius mammalis C,Satchellius mammalis,0.032
+CE15054 Satchellius mammalis C,CE18431 Satchellius mammalis C,Satchellius mammalis,0.032
+CE26115 Satchellius mammalis C,CE18431 Satchellius mammalis C,Satchellius mammalis,0.033
+CE11843 Satchellius mammalis C,CE18431 Satchellius mammalis C,Satchellius mammalis,0.032
+CE4365M Satchellius mammalis C,CE18431 Satchellius mammalis C,Satchellius mammalis,0.035
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.000
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.000
+NOREW065 11 CE12753 Satchellius mammalis COI,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.028
+CE5391M Satchellius mammalis C,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.000
+CE15060 Satchellius mammalis C,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.000
+CE15059 Satchellius mammalis C,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.000
+CE15054 Satchellius mammalis C,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.000
+CE26115 Satchellius mammalis C,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.000
+CE11843 Satchellius mammalis C,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.003
+CE4365M Satchellius mammalis C,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.006
+CE18431 Satchellius mammalis C,CE15057 Satchellius mammalis COI,Satchellius mammalis,0.032
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.006
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.006
+NOREW065 11 CE12753 Satchellius mammalis COI,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.031
+CE5391M Satchellius mammalis C,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.006
+CE15060 Satchellius mammalis C,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.006
+CE15059 Satchellius mammalis C,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.006
+CE15054 Satchellius mammalis C,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.006
+CE26115 Satchellius mammalis C,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.006
+CE11843 Satchellius mammalis C,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.006
+CE4365M Satchellius mammalis C,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.000
+CE18431 Satchellius mammalis C,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.035
+CE15057 Satchellius mammalis COI,CE15058 Satchellius mammalis COI,Satchellius mammalis,0.006
+NOEAR067-18 CE15056 Satchellius mammalis COI,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.032
+NOEAR066-18 CE15055 Satchellius mammalis COI,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.031
+NOREW065 11 CE12753 Satchellius mammalis COI,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.044
+CE5391M Satchellius mammalis C,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.032
+CE15060 Satchellius mammalis C,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.032
+CE15059 Satchellius mammalis C,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.032
+CE15054 Satchellius mammalis C,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.032
+CE26115 Satchellius mammalis C,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.032
+CE11843 Satchellius mammalis C,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.032
+CE4365M Satchellius mammalis C,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.035
+CE18431 Satchellius mammalis C,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.049
+CE15057 Satchellius mammalis COI,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.032
+CE15058 Satchellius mammalis COI,CE21316 Satchellius mammalis COI,Satchellius mammalis,0.035
+CE1230M Helodrilus oculatus CO,CE5690M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE5691M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,CE5691M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE5692M Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5690M Helodrilus oculatus CO,CE5692M Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5691M Helodrilus oculatus CO,CE5692M Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE1230M Helodrilus oculatus CO,CE5693M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,CE5693M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,CE5693M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,CE5693M Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE1230M Helodrilus oculatus CO,CE5694M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,CE5694M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,CE5694M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,CE5694M Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,CE5694M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,LUTCE188 10 CE5695 Helodrilus,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,LUTCE188 10 CE5695 Helodrilus,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,LUTCE188 10 CE5695 Helodrilus,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,LUTCE188 10 CE5695 Helodrilus,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,LUTCE188 10 CE5695 Helodrilus,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,LUTCE188 10 CE5695 Helodrilus,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE5700M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,CE5700M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,CE5700M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,CE5700M Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,CE5700M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,CE5700M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE188 10 CE5695 Helodrilus,CE5700M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE5705M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,CE5705M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,CE5705M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,CE5705M Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,CE5705M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,CE5705M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE188 10 CE5695 Helodrilus,CE5705M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5700M Helodrilus oculatus CO,CE5705M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,LUTCE478 10 CE7085 Helodrilus,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,LUTCE478 10 CE7085 Helodrilus,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,LUTCE478 10 CE7085 Helodrilus,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,LUTCE478 10 CE7085 Helodrilus,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,LUTCE478 10 CE7085 Helodrilus,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,LUTCE478 10 CE7085 Helodrilus,Helodrilus oculatus,0.000
+LUTCE188 10 CE5695 Helodrilus,LUTCE478 10 CE7085 Helodrilus,Helodrilus oculatus,0.000
+CE5700M Helodrilus oculatus CO,LUTCE478 10 CE7085 Helodrilus,Helodrilus oculatus,0.000
+CE5705M Helodrilus oculatus CO,LUTCE478 10 CE7085 Helodrilus,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.000
+LUTCE188 10 CE5695 Helodrilus,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.000
+CE5700M Helodrilus oculatus CO,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.000
+CE5705M Helodrilus oculatus CO,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.000
+LUTCE478 10 CE7085 Helodrilus,LUTCE479 10 CE7087 Helodrilus,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5690M Helodrilus oculatus CO,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5691M Helodrilus oculatus CO,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5692M Helodrilus oculatus CO,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.050
+CE5693M Helodrilus oculatus CO,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5694M Helodrilus oculatus CO,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE188 10 CE5695 Helodrilus,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5700M Helodrilus oculatus CO,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5705M Helodrilus oculatus CO,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE479 10 CE7087 Helodrilus,CE6500M Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE1230M Helodrilus oculatus CO,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.053
+CE5690M Helodrilus oculatus CO,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.053
+CE5691M Helodrilus oculatus CO,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.053
+CE5692M Helodrilus oculatus CO,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.053
+CE5694M Helodrilus oculatus CO,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.053
+LUTCE188 10 CE5695 Helodrilus,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.053
+CE5700M Helodrilus oculatus CO,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.053
+CE5705M Helodrilus oculatus CO,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.053
+LUTCE479 10 CE7087 Helodrilus,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.053
+CE6500M Helodrilus oculatus CO,LUTCE307 10 CE6501 Helodrilus,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.053
+CE5690M Helodrilus oculatus CO,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.053
+CE5691M Helodrilus oculatus CO,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.053
+CE5692M Helodrilus oculatus CO,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.053
+CE5694M Helodrilus oculatus CO,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.053
+LUTCE188 10 CE5695 Helodrilus,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.053
+CE5700M Helodrilus oculatus CO,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.053
+CE5705M Helodrilus oculatus CO,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.053
+LUTCE479 10 CE7087 Helodrilus,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.053
+CE6500M Helodrilus oculatus CO,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,LUTCE308 10 CE6502 Helodrilus,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.052
+CE5690M Helodrilus oculatus CO,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.052
+CE5691M Helodrilus oculatus CO,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.052
+CE5692M Helodrilus oculatus CO,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.050
+CE5693M Helodrilus oculatus CO,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.052
+CE5694M Helodrilus oculatus CO,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.052
+LUTCE188 10 CE5695 Helodrilus,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.052
+CE5700M Helodrilus oculatus CO,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.052
+CE5705M Helodrilus oculatus CO,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.047
+LUTCE478 10 CE7085 Helodrilus,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.052
+LUTCE479 10 CE7087 Helodrilus,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.052
+CE6500M Helodrilus oculatus CO,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.002
+LUTCE307 10 CE6501 Helodrilus,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.002
+LUTCE308 10 CE6502 Helodrilus,LUTCE309 10 CE6503 Helodrilus,Helodrilus oculatus,0.002
+CE1230M Helodrilus oculatus CO,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.053
+CE5690M Helodrilus oculatus CO,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.053
+CE5691M Helodrilus oculatus CO,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.053
+CE5692M Helodrilus oculatus CO,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.053
+CE5694M Helodrilus oculatus CO,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.053
+LUTCE188 10 CE5695 Helodrilus,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.053
+CE5700M Helodrilus oculatus CO,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.053
+CE5705M Helodrilus oculatus CO,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.053
+LUTCE479 10 CE7087 Helodrilus,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.053
+CE6500M Helodrilus oculatus CO,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,LUTCE310 10 CE6504 Helodrilus,Helodrilus oculatus,0.002
+CE1230M Helodrilus oculatus CO,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE5690M Helodrilus oculatus CO,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE5691M Helodrilus oculatus CO,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE5692M Helodrilus oculatus CO,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.046
+CE5693M Helodrilus oculatus CO,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE5694M Helodrilus oculatus CO,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.048
+LUTCE188 10 CE5695 Helodrilus,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE5700M Helodrilus oculatus CO,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE5705M Helodrilus oculatus CO,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.050
+LUTCE478 10 CE7085 Helodrilus,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.048
+LUTCE479 10 CE7087 Helodrilus,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE6500M Helodrilus oculatus CO,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,CE6505M Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+CE5690M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+CE5691M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+CE5692M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.002
+CE5693M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+CE5694M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+LUTCE188 10 CE5695 Helodrilus,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+CE5700M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+CE5705M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.007
+LUTCE478 10 CE7085 Helodrilus,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+LUTCE479 10 CE7087 Helodrilus,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+CE6500M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.048
+LUTCE307 10 CE6501 Helodrilus,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.050
+LUTCE308 10 CE6502 Helodrilus,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.050
+LUTCE309 10 CE6503 Helodrilus,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.049
+LUTCE310 10 CE6504 Helodrilus,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.050
+CE6505M Helodrilus oculatus CO,CE8815 Helodrilus oculatus COI,Helodrilus oculatus,0.044
+CE1230M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+CE5690M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+CE5691M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+CE5692M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+CE5694M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+LUTCE188 10 CE5695 Helodrilus,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+CE5700M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+CE5705M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+LUTCE479 10 CE7087 Helodrilus,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+CE6500M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,CE9307 Helodrilus oculatus COI,Helodrilus oculatus,0.050
+CE1230M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.054
+CE5690M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.054
+CE5691M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.054
+CE5692M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.054
+CE5694M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.054
+LUTCE188 10 CE5695 Helodrilus,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.054
+CE5700M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.054
+CE5705M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.054
+LUTCE479 10 CE7087 Helodrilus,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.054
+CE6500M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.050
+CE9307 Helodrilus oculatus COI,LSWED413 11 CE9308 Helodrilus,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.054
+CE5690M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.054
+CE5691M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.054
+CE5692M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.054
+CE5694M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.054
+LUTCE188 10 CE5695 Helodrilus,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.054
+CE5700M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.054
+CE5705M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.054
+LUTCE479 10 CE7087 Helodrilus,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.054
+CE6500M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.050
+CE9307 Helodrilus oculatus COI,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,LSWED414 11 CE9311 Helodrilus,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.054
+CE5690M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.054
+CE5691M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.054
+CE5692M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.054
+CE5694M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.054
+LUTCE188 10 CE5695 Helodrilus,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.054
+CE5700M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.054
+CE5705M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.054
+LUTCE479 10 CE7087 Helodrilus,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.054
+CE6500M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.050
+CE9307 Helodrilus oculatus COI,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,LSWED436 11 CE9732 Helodrilus,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.054
+CE5690M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.054
+CE5691M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.054
+CE5692M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.054
+CE5694M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.054
+LUTCE188 10 CE5695 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.054
+CE5700M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.054
+CE5705M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.054
+LUTCE479 10 CE7087 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.054
+CE6500M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.050
+CE9307 Helodrilus oculatus COI,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.000
+LSWED436 11 CE9732 Helodrilus,LSWED437 11 CE9733 Helodrilus,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.053
+CE5690M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.053
+CE5691M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.053
+CE5692M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.053
+CE5694M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.053
+LUTCE188 10 CE5695 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.053
+CE5700M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.053
+CE5705M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.053
+LUTCE479 10 CE7087 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.053
+CE6500M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.050
+CE9307 Helodrilus oculatus COI,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LSWED436 11 CE9732 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LSWED437 11 CE9733 Helodrilus,CE11347M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE188 10 CE5695 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5700M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5705M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE478 10 CE7085 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE479 10 CE7087 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE6500M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE307 10 CE6501 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE308 10 CE6502 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE309 10 CE6503 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE310 10 CE6504 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE6505M Helodrilus oculatus CO,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE8815 Helodrilus oculatus COI,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.006
+CE9307 Helodrilus oculatus COI,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LSWED413 11 CE9308 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED414 11 CE9311 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED436 11 CE9732 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED437 11 CE9733 Helodrilus,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE11347M Helodrilus oculatus C,CE11393 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE1230M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LUTCE188 10 CE5695 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE5700M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE5705M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LUTCE478 10 CE7085 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+LUTCE479 10 CE7087 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE6500M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.052
+LUTCE307 10 CE6501 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.053
+LUTCE308 10 CE6502 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.053
+LUTCE309 10 CE6503 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.052
+LUTCE310 10 CE6504 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.053
+CE6505M Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.048
+CE8815 Helodrilus oculatus COI,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.006
+CE9307 Helodrilus oculatus COI,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.053
+LSWED413 11 CE9308 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.054
+LSWED414 11 CE9311 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.054
+LSWED436 11 CE9732 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.054
+LSWED437 11 CE9733 Helodrilus,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.054
+CE11347M Helodrilus oculatus C,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.053
+CE11393 Helodrilus oculatus CO,CE11468M Helodrilus oculatus C,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE188 10 CE5695 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE5700M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE5705M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE478 10 CE7085 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE479 10 CE7087 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE6500M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+LUTCE307 10 CE6501 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+LUTCE308 10 CE6502 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+LUTCE309 10 CE6503 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+LUTCE310 10 CE6504 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+CE6505M Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.048
+CE8815 Helodrilus oculatus COI,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.006
+CE9307 Helodrilus oculatus COI,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+LSWED413 11 CE9308 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.054
+LSWED414 11 CE9311 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.054
+LSWED436 11 CE9732 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.054
+LSWED437 11 CE9733 Helodrilus,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.054
+CE11347M Helodrilus oculatus C,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.053
+CE11393 Helodrilus oculatus CO,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE11468M Helodrilus oculatus C,NOEAR057-18 CE11469 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5690M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5691M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5692M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5693M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5694M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+LUTCE188 10 CE5695 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5700M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5705M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+LUTCE478 10 CE7085 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+LUTCE479 10 CE7087 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE6500M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.050
+LUTCE307 10 CE6501 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE308 10 CE6502 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE309 10 CE6503 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.050
+LUTCE310 10 CE6504 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE6505M Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.046
+CE8815 Helodrilus oculatus COI,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE9307 Helodrilus oculatus COI,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LSWED413 11 CE9308 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LSWED414 11 CE9311 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LSWED436 11 CE9732 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LSWED437 11 CE9733 Helodrilus,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE11347M Helodrilus oculatus C,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE11393 Helodrilus oculatus CO,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE11468M Helodrilus oculatus C,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE16604 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE1230M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5690M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5691M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5692M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5693M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5694M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+LUTCE188 10 CE5695 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5700M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5705M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+LUTCE478 10 CE7085 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+LUTCE479 10 CE7087 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE6500M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.050
+LUTCE307 10 CE6501 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE308 10 CE6502 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE309 10 CE6503 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.050
+LUTCE310 10 CE6504 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE6505M Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.046
+CE8815 Helodrilus oculatus COI,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE9307 Helodrilus oculatus COI,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LSWED413 11 CE9308 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LSWED414 11 CE9311 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LSWED436 11 CE9732 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LSWED437 11 CE9733 Helodrilus,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE11347M Helodrilus oculatus C,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE11393 Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE11468M Helodrilus oculatus C,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE16604 Helodrilus oculatus CO,CE16605 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE5690M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE5691M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE5692M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE5694M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LUTCE188 10 CE5695 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE5700M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE5705M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.051
+LUTCE478 10 CE7085 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LUTCE479 10 CE7087 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE6500M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LUTCE307 10 CE6501 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LUTCE308 10 CE6502 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LUTCE309 10 CE6503 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.003
+LUTCE310 10 CE6504 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE6505M Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.051
+CE9307 Helodrilus oculatus COI,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LSWED413 11 CE9308 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LSWED414 11 CE9311 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LSWED436 11 CE9732 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LSWED437 11 CE9733 Helodrilus,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE11347M Helodrilus oculatus C,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE11393 Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE11468M Helodrilus oculatus C,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE16604 Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE16605 Helodrilus oculatus CO,CE18776 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE1230M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5690M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5691M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5692M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.051
+CE5693M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5694M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE188 10 CE5695 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5700M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5705M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE479 10 CE7087 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE6500M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.049
+CE9307 Helodrilus oculatus COI,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED436 11 CE9732 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED437 11 CE9733 Helodrilus,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11347M Helodrilus oculatus C,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11393 Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE11468M Helodrilus oculatus C,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE16604 Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.051
+CE16605 Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.051
+CE18776 Helodrilus oculatus CO,CE18777 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE1230M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5690M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5691M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5692M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.051
+CE5693M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5694M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE188 10 CE5695 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5700M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5705M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE479 10 CE7087 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE6500M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.049
+CE9307 Helodrilus oculatus COI,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED436 11 CE9732 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED437 11 CE9733 Helodrilus,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11347M Helodrilus oculatus C,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11393 Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE11468M Helodrilus oculatus C,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE16604 Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.051
+CE16605 Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.051
+CE18776 Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE18777 Helodrilus oculatus CO,CE18778 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE5690M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE5691M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE5692M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.050
+CE5693M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE5694M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+LUTCE188 10 CE5695 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE5700M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE5705M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.050
+LUTCE478 10 CE7085 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+LUTCE479 10 CE7087 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE6500M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.048
+CE9307 Helodrilus oculatus COI,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LSWED436 11 CE9732 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LSWED437 11 CE9733 Helodrilus,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE11347M Helodrilus oculatus C,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE11393 Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE11468M Helodrilus oculatus C,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+NOEAR057-18 CE11469 Helodrilus oculatus COI,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE16604 Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.050
+CE16605 Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.050
+CE18776 Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE18777 Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE18778 Helodrilus oculatus CO,NOEAR084-18 CE18780 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE188 10 CE5695 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5700M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5705M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE478 10 CE7085 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE479 10 CE7087 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE6500M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE307 10 CE6501 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LUTCE308 10 CE6502 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LUTCE309 10 CE6503 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE310 10 CE6504 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE6505M Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE8815 Helodrilus oculatus COI,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.006
+CE9307 Helodrilus oculatus COI,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED413 11 CE9308 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED414 11 CE9311 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED436 11 CE9732 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED437 11 CE9733 Helodrilus,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE11347M Helodrilus oculatus C,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE11393 Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11468M Helodrilus oculatus C,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE16604 Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE16605 Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE18776 Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE18777 Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE18778 Helodrilus oculatus CO,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+NOEAR084-18 CE18780 Helodrilus oculatus COI,CE26114 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE1230M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5690M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5691M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5692M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5694M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE188 10 CE5695 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5700M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5705M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE479 10 CE7087 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE6500M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.050
+CE9307 Helodrilus oculatus COI,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED436 11 CE9732 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED437 11 CE9733 Helodrilus,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11347M Helodrilus oculatus C,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11393 Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE11468M Helodrilus oculatus C,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE16604 Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE16605 Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE18776 Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE18777 Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE18778 Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+NOEAR084-18 CE18780 Helodrilus oculatus COI,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE26114 Helodrilus oculatus CO,CE26263 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE1230M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5690M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5691M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5692M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5694M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE188 10 CE5695 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5700M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5705M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE479 10 CE7087 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE6500M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.050
+CE9307 Helodrilus oculatus COI,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED436 11 CE9732 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED437 11 CE9733 Helodrilus,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11347M Helodrilus oculatus C,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11393 Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE11468M Helodrilus oculatus C,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE16604 Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE16605 Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE18776 Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE18777 Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE18778 Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+NOEAR084-18 CE18780 Helodrilus oculatus COI,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE26114 Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE26263 Helodrilus oculatus CO,CE26264 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5690M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5691M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5692M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE5693M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5694M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE188 10 CE5695 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5700M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE5705M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.049
+LUTCE478 10 CE7085 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE479 10 CE7087 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE6500M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.050
+CE9307 Helodrilus oculatus COI,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED436 11 CE9732 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LSWED437 11 CE9733 Helodrilus,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11347M Helodrilus oculatus C,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11393 Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE11468M Helodrilus oculatus C,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE16604 Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE16605 Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE18776 Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.002
+CE18777 Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE18778 Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+NOEAR084-18 CE18780 Helodrilus oculatus COI,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE26114 Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE26263 Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE26264 Helodrilus oculatus CO,CE26265 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE5690M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE5691M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE5692M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.054
+CE5693M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE5694M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+LUTCE188 10 CE5695 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE5700M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE5705M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.051
+LUTCE478 10 CE7085 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+LUTCE479 10 CE7087 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE6500M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE307 10 CE6501 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE308 10 CE6502 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LUTCE309 10 CE6503 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.002
+LUTCE310 10 CE6504 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE6505M Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE8815 Helodrilus oculatus COI,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.052
+CE9307 Helodrilus oculatus COI,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LSWED413 11 CE9308 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LSWED414 11 CE9311 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LSWED436 11 CE9732 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+LSWED437 11 CE9733 Helodrilus,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE11347M Helodrilus oculatus C,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE11393 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE11468M Helodrilus oculatus C,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+NOEAR057-18 CE11469 Helodrilus oculatus COI,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE16604 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.054
+CE16605 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.054
+CE18776 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE18777 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE18778 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+NOEAR084-18 CE18780 Helodrilus oculatus COI,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE26114 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.055
+CE26263 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE26264 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE26265 Helodrilus oculatus CO,NOEAR121-18 CE26266 Helodrilus oculatus COI,Helodrilus oculatus,0.000
+CE1230M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5690M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5691M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5692M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE5693M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5694M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE188 10 CE5695 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5700M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE5705M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE478 10 CE7085 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+LUTCE479 10 CE7087 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE6500M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE307 10 CE6501 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE308 10 CE6502 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LUTCE309 10 CE6503 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+LUTCE310 10 CE6504 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE6505M Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.048
+CE8815 Helodrilus oculatus COI,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.006
+CE9307 Helodrilus oculatus COI,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+LSWED413 11 CE9308 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED414 11 CE9311 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED436 11 CE9732 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+LSWED437 11 CE9733 Helodrilus,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE11347M Helodrilus oculatus C,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE11393 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE11468M Helodrilus oculatus C,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+NOEAR057-18 CE11469 Helodrilus oculatus COI,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE16604 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE16605 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.008
+CE18776 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.054
+CE18777 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE18778 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+NOEAR084-18 CE18780 Helodrilus oculatus COI,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.052
+CE26114 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.000
+CE26263 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE26264 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+CE26265 Helodrilus oculatus CO,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.053
+NOEAR121-18 CE26266 Helodrilus oculatus COI,CE30992 Helodrilus oculatus CO,Helodrilus oculatus,0.055

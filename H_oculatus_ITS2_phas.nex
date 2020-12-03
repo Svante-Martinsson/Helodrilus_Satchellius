@@ -89,7 +89,7 @@ begin characters;
 ;
 end;
 BEGIN TRAITS;
-	Dimentions NTRAITS=4;
+	Dimensions NTRAITS=4;
 	Format labels=yes separator=Comma;
 	TraitLabels Sweden Norway Denmark Germany;
 	matrix
